@@ -1,0 +1,6 @@
+ 
+ GIT commands
+ 
+ git commit -m "first commit"
+ git branch
+ git push -u origin NaVApp_base
